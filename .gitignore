@@ -1,1 +1,4 @@
 .DS_Store
+
+# Print assets for the /help flyer — kept local so they aren't served from the domain.
+flyer/
